@@ -422,7 +422,7 @@ video{
 }
 .contact .contact-content .card .box{
     font-size: 25px;
-    margin-left: 10%;
+    margin-left: 30%;
     margin-right: 10%;
 }
 .contact .contact-content .row{
@@ -745,7 +745,7 @@ footer span a{
         transition: all 0.3s ease;
     }
     .contact .contact-content .card .box{
-        padding-top: 15px;
+        padding-top: 5px;
         padding-left: 0;
         font-size: 20px;
         
@@ -757,9 +757,12 @@ footer span a{
     }
     .contact .contact-content .row .contact-items{
         margin-left: 20px;
-        margin-right: 50%;
-        font-size: 15px;
+        margin-right: 20%;
+        font-size: 20px;
         font-weight: 550;
+    }
+    .contact .contact-content .row {
+        margin-left: 10%;
     }
 }
 
@@ -811,12 +814,14 @@ footer span a{
         transition: all 0.3s ease;
     }
     .contact .contact-content .card .box{
-        padding-top: 15px;
+        padding-top: 10px;
         padding-left: 0;
-        font-size: 20px;
+        padding-bottom: 10px;
+        margin-left: 20%;
         
         
     }
+    
     .contact .contact-content .card p{
         font-size: 15px;
         padding-top: 20px;
@@ -825,7 +830,7 @@ footer span a{
     .contact .contact-content .row .contact-items{
         margin-left: 20px;
         margin-right: 50%;
-        font-size: 15px;
+        font-size: 18px;
         font-weight: 550;
     }
 }
@@ -945,19 +950,22 @@ footer span a{
     .contact .contact-content .card .box{
         padding-top: 15px;
         padding-left: 0;
+        padding-bottom: 15px;
         font-size: 20px;
+        margin-left: 25%;
         
     }
     .contact .contact-content .card p{
-        font-size: 19px;
+        font-size: 20px;
         padding-top: 20px;
         font-weight: 550;
     }
     .contact .contact-content .row .contact-items{
-        margin-left: 20px;
-        margin-right: 50%;
+        margin-left: 10px;
+        margin-right: 70%;
         font-size: 20px;
         font-weight: 550;
+        
     }
 }
 
@@ -1058,7 +1066,6 @@ footer span a{
         width: calc(100% - 5px);
         background: #222;
         text-align: left;
-        justify-content: center;
         border-radius: 6px;
         padding: 0;
         margin-bottom: 30px;
@@ -1069,6 +1076,7 @@ footer span a{
         padding-top: 15px;
         padding-left: 0;
         font-size: 20px;
+        margin-left: 20%;
         
     }
     .contact .contact-content .card p{
@@ -1079,14 +1087,8 @@ footer span a{
     .contact .contact-content .row .contact-items{
         margin-left: 20px;
         margin-right: 50%;
-        font-size: 15px;
+        font-size: px;
         font-weight: 550;
     }
     
 }
-
-
-
-
-
-
