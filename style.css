@@ -1057,7 +1057,8 @@ footer span a{
     .contact .contact-content .card{
         width: calc(100% - 5px);
         background: #222;
-        text-align: center;
+        text-align: left;
+        justify-content: center;
         border-radius: 6px;
         padding: 0;
         margin-bottom: 30px;
