@@ -258,8 +258,8 @@ video{
 
 .projects .projects-content .card{
     width: calc(30% - 20px);
-/*     height: calc(90%); */
-    height: 400px;
+    height: calc(90%);
+    
     background: #222;
     text-align: left;
     border-radius: 6px;
