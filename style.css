@@ -258,7 +258,8 @@ video{
 
 .projects .projects-content .card{
     width: calc(30% - 20px);
-    height: calc(90%);
+/*     height: calc(90%); */
+    height: 400px;
     background: #222;
     text-align: left;
     border-radius: 6px;
@@ -268,7 +269,7 @@ video{
     transition: all 0.3s ease;
 }
 .projects .projects-content .card #inventoryManagement{
-    height: 200px;
+    
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -278,7 +279,7 @@ video{
 }
 
 .projects .projects-content .card #cardBuyingBot{
-    height: 450px;
+    
     margin-top: 20px;
     margin-bottom: 5px;
 }
