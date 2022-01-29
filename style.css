@@ -268,7 +268,7 @@ video{
     transition: all 0.3s ease;
 }
 .projects .projects-content .card #inventoryManagement{
-    height: 300px;
+    height: 200px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
